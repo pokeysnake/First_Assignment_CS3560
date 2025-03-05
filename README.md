@@ -1,3 +1,5 @@
+# NICHOLAS PEREZ CS3560 | TUES-THURS 10-1115
+
 # Pyramid Rubik Cube Validator
 
 ## Description
